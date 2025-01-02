@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "540860964922",
+    "firebase_url": "https://spotimy-mobile-78e3f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "spotimy-mobile-78e3f",
+    "storage_bucket": "spotimy-mobile-78e3f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540860964922:android:0aaf5cd1310649e60c5503",
+        "android_client_info": {
+          "package_name": "com.mizginyildirak.spotimymobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540860964922-ae1pjv7apq87adp32s0ieotb433m8jk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzZC_nYKqEvfmrbHtxtz_1k0PQ5k4bHx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540860964922-ae1pjv7apq87adp32s0ieotb433m8jk1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "540860964922-n0q9iipak0p3tudb2ov4lbu1bn974si0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mizginyildirak.spotimymobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
